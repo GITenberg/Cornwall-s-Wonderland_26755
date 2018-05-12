@@ -1,0 +1,33 @@
+_repo: Cornwall-s-Wonderland_26755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Mabel
+    deathdate: 1924
+    gutenberg_agent_id: '5320'
+    url: http://www.gutenberg.org/2009/agents/5320
+    wikipedia: http://en.wikipedia.org/wiki/Mabel_Quiller-Couch
+description: ''
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- England -- Cornwall (County)'
+- !lcc 'GR'
+tableOfContents: How Corineus fought the chief of the giants -- The giant of St. Michael's
+  Mount -- The legend of the Tamar, the Tavy, and the Taw -- The strange story of
+  Cherry Honey -- The fairies on the Gump -- The fairy ointment -- The exciting adventure
+  of John Sturtridge -- The true story of Anne and the fairies -- Barker and the Buccas
+  -- Lutey and the mermaid -- The wicked spectre -- The story of the lovers' cove
+  -- The silver table -- Cruel Coppinger, the Dane -- Madge Figgy, the wrecker --
+  How Madge Figgy got her pig -- The story of Sir Tristram and La Belle Iseult.
+title: Cornwall's Wonderland
+url: http://www.gutenberg.org/ebooks/26755
